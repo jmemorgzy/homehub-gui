@@ -1,0 +1,4 @@
+autopep8==2.0.4
+darkdetect==0.8.0
+packaging==23.2
+pycodestyle==2.11.1
